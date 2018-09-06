@@ -18,7 +18,8 @@ i have these bots run on a cron every minute thusly:
 
 oh also from the tmz rss thing, note that all TMZ content is:
 
-```Copyright 2018 TMZ. The contents of this headlines and excerpts feed are available for limited commercial distribution. You may repost this feed to your site provided you link back to the original story, do not edit the material and do not remove this copyright notice.
+```
+Copyright 2018 TMZ. The contents of this headlines and excerpts feed are available for limited commercial distribution. You may repost this feed to your site provided you link back to the original story, do not edit the material and do not remove this copyright notice.
 ```
 
 no edits are made to the materials. headlines and links to TMZ are provided in the output as provided by the rss feed.
